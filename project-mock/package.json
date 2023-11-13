@@ -1,0 +1,22 @@
+{
+  "name": "project-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chinese-conv": "^1.0.1",
+    "koa": "^2.14.2",
+    "koa-router": "^12.0.1",
+    "mockjs": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
