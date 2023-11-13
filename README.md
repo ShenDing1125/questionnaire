@@ -24,21 +24,21 @@
 
    - 帳密規則限制
    - 密碼重複校驗
+   ![註冊](https://github.com/ShenDing1125/questionnaire/blob/main/%E9%9D%9C%E6%85%8B%E8%B3%87%E6%BA%90/pictures/register.png)
 
-   <img src="C:\Users\User\Desktop\questionnaire\靜態資源\pictures\register.png" alt="register" style="zoom:50%;" />
 
 2. 登入:
 
-<img src="C:\Users\User\Desktop\截圖\login.png" alt="login" style="zoom:50%;" />
+   ![登入](https://github.com/ShenDing1125/questionnaire/blob/main/%E9%9D%9C%E6%85%8B%E8%B3%87%E6%BA%90/pictures/login.png)
 
 3. Token:
-   <img src="C:\Users\User\Desktop\截圖\token.png" alt="token" style="zoom: 50%;" />
+   ![Token](https://github.com/ShenDing1125/questionnaire/blob/main/%E9%9D%9C%E6%85%8B%E8%B3%87%E6%BA%90/pictures/token.png)
 
 4. 問卷主頁:
 
    - 呈現Mock提供的隨機數據
 
-   ![questionList](C:\Users\User\Desktop\截圖\questionList.png)
+   ![問卷主頁](https://github.com/ShenDing1125/questionnaire/blob/main/%E9%9D%9C%E6%85%8B%E8%B3%87%E6%BA%90/pictures/questionList.png)
 
 5. 問卷編輯:
 
@@ -47,17 +47,17 @@
    - 撤銷、取消撤銷
    - 隱藏、刪除、複製等編輯功能
 
-   ![questionEdit](C:\Users\User\Desktop\截圖\questionEdit.png)
+   ![問卷編輯](https://github.com/ShenDing1125/questionnaire/blob/main/%E9%9D%9C%E6%85%8B%E8%B3%87%E6%BA%90/pictures/questionEdit.png)
 
 6. 問卷統計:
 
    - 生成答卷的"網址"及"QRcode"
    - 觀看統計數據
 
-   ![questionStat](C:\Users\User\Desktop\截圖\questionStat.png)
+   ![問卷統計](https://github.com/ShenDing1125/questionnaire/blob/main/%E9%9D%9C%E6%85%8B%E8%B3%87%E6%BA%90/pictures/questionStat.png)
 
 7. 答卷:
-   ![questionAnswer](C:\Users\User\Desktop\截圖\questionAnswer.png)
+   ![答卷](https://github.com/ShenDing1125/questionnaire/blob/main/%E9%9D%9C%E6%85%8B%E8%B3%87%E6%BA%90/pictures/questionAnswer.png)
 
 
 
