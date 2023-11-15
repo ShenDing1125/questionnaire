@@ -32,8 +32,8 @@ https://drive.google.com/file/d/1cpbpu_qnJubQFCe9eK1ZIVlm4HCwd-U9/view?usp=shari
 
    ![登入](https://github.com/ShenDing1125/questionnaire/blob/main/%E9%9D%9C%E6%85%8B%E8%B3%87%E6%BA%90/pictures/login.png)
 
-3. Token:
-   ![Token](https://github.com/ShenDing1125/questionnaire/blob/main/%E9%9D%9C%E6%85%8B%E8%B3%87%E6%BA%90/pictures/token.png)
+3. JWT:
+   ![JWT](https://github.com/ShenDing1125/questionnaire/blob/main/%E9%9D%9C%E6%85%8B%E8%B3%87%E6%BA%90/pictures/token.png)
 
 4. 問卷主頁:
 
